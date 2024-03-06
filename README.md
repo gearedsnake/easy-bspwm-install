@@ -26,12 +26,18 @@ enables: bluetooth.service
 3. `chmod +x install.sh`  (give install script permission to execute)
 4. `./install.sh`  (start the script)
 
-# controls
+## controls
+
 `ctrl + alt + t` to open the terminal
+
 `super + e` to open thunar (file manager)
+
 `alt + f4` to close the window
+
 `super + w` to open rofi
+
 `alt + tab` to switch between windows
+
 you can view and edit keybinds in `~/.config/sxhkd/sxhkdrc`
 check sxhkd documentation to know how to add new keybinds
 
